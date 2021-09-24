@@ -132,7 +132,7 @@ input:invalid + .invalid {
   }
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 800px) {
   .content {
     align-items: center;
   }
